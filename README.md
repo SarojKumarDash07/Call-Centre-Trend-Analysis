@@ -17,6 +17,8 @@ The KPIs include :
 
 • Agents performance quadrant -> average handle time(talk duration) vs calls answered.
 
+![Diagram](Capture.PNG)
+
 **REFERENCE** - [Call Centre Trend Analysis - Power BI Dashboard](https://siliconinstitute-my.sharepoint.com/:u:/g/personal/ece_21bece11_silicon_ac_in/EXqAqLgrU49GkEIcAwA98qIBLSO6nFAFrTbcI9XfvyMHZA?e=hYFWcJ)
 
 
